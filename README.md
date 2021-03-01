@@ -1,2 +1,2 @@
 # {{constructor.constructor('alert(document.domain)')()}}
-badboy
+{{constructor.constructor('alert(document.domain)')()}}
